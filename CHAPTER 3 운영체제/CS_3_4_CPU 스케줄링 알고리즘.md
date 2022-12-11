@@ -76,9 +76,11 @@
 - 하지만 다음 프로세스의 CPU burst time을 예측하는 것이 어렵다는 문제가 존재한다.
 
 비선점형 SJF
+<br>
 ![ex](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FLvUVD%2FbtrwVsSWLbJ%2FoIOaF3SBtE9Gd87sWqjGWK%2Fimg.png)
 
 선점형 SJF
+<br>
 ![ex](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FL2iRd%2FbtrwXz49BtP%2FucHEyokTcjfydBSZdogOhK%2Fimg.png)
 
 <br>
